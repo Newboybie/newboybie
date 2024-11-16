@@ -1,11 +1,12 @@
-### Hi there 👋, This is my first step on GITHUB.
+Hi there 👋 Welcome to my GitHub profile!
+Hello! 🖐️ I'm Tống Duy Nam, a student from the Posts and Telecommunications Institute of Technology 🏛.
 
+I’m an aspiring developer with a strong passion for learning and exploring new technologies in the field of Information Technology. 🎓 My key interests lie in Game Design and Virtual Reality, where creativity meets innovation. 🎮✨
 
-Hello!🖐️ My name is **TONG DUY NAM**. I'm from **Posts and Telecommunications Institute of Technology University**🏛.
+I'm eager to connect with like-minded individuals and communities who share a love for discovery and collaboration. 👨‍👩‍👧‍👦
 
-I'm just a guy who wants to learn and discover useful knowledge for my information technology field🏄‍♀️, and I'm also very interested in AI and simulation software⏰.
+Skills:
+ + Proficient in Unity Engine for game design.
+ + Knowledgeable in Design Patterns for crafting scalable and efficient software.
 
-I look forward to connecting with diverse communities that share a passion for knowledge👨‍👨‍👧‍👦.
-
-**SKILL:**
-I'm still inexperienced but I'm sure one day I'll fill in a lot of things here.
+Let's embark on this exciting journey of coding and creativity together! 🚀
