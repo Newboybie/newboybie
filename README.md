@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi there 👋 Welcome to my GitHub profile! Hello! 🖐️ I'm Tống Duy Nam, a student from the Posts and Telecommunications Institute of Technology 🏛.<br><br>I’m an aspiring developer with a strong passion for learning and exploring new technologies in the field of Information Technology. 🎓 My key interests lie in Game Design and Virtual Reality, where creativity meets innovation. 🎮✨<br><br>I'm eager to connect with like-minded individuals and communities who share a love for discovery and collaboration. 👨‍👩‍👧‍👦<br><br>Skills:<br><br>Proficient in Unity Engine for game design.<br>Knowledgeable in Design Patterns for crafting scalable and efficient software.<br>Let's embark on this exciting journey of coding and creativity together! 🚀
+# 💫 About Me  
+
+Hi there! 👋 Welcome to my GitHub profile!  
+
+🖐️ I'm **Tống Duy Nam**, a student at the **Posts and Telecommunications Institute of Technology** 🏛.  
+
+🎓 I’m an aspiring developer passionate about learning and exploring new technologies in **Information Technology**. My primary interests are in **Game Design** and **Virtual Reality**, where creativity and innovation collide. 🎮✨  
+
+👨‍👩‍👧‍👦 I enjoy connecting with like-minded individuals and communities who share a love for discovery and collaboration.  
+
+### 🛠️ Skills  
+- **Unity Engine**: Proficient in designing and developing games.  
+- **Design Patterns**: Knowledgeable in crafting scalable and efficient software.  
+
+🚀 Let’s embark on this exciting journey of coding, creativity, and collaboration together!  
 
 
 ## 🌐 Socials:
